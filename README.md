@@ -5,4 +5,5 @@
 In this exerdcise yo will cratea aprogram that prints 'hello World'
 
 ## Requirments
-Must have Addd inst
+Must contain a class
+Must have etc
